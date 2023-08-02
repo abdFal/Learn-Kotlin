@@ -1,3 +1,4 @@
+interface MyMobil
 fun main(args: Array<String>){
     var cyan = MobilLambo(cc = 9000, nama = "Cyan", color = "Gray", collab = "Snoopdog", jenisban = "R20")
     cyan.infoLambo()
